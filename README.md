@@ -1,5 +1,5 @@
 # Grayscale-Image
 Applying each transformation to the original image
 
-<a href="https://www.photobox.co.uk/my/photo/full?photo_id=501864489841"><img src="https://www.photobox.co.uk/my/photo/full?photo_id=501864489841" title="Image"/></a>
+![grayscale](https://user-images.githubusercontent.com/18900094/57777659-086a6400-772b-11e9-8c8b-8e8dc7e16559.PNG)
 
